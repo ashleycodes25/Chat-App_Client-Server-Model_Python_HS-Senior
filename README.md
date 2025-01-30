@@ -1,6 +1,7 @@
 # Chat-App_Client-Server-Model_Python_Senior-Year
 
-This program assigned my senior year of high school during our Python unit.
+This program assigned my senior year of high school during our Python unit. <br/>
+The attatched Client.py and Server.py files contain the code I submitted for this program.
 
 **Instructions:**
 - Make a working chat app in which multiple clients can connect to a server by entering a username, IP address, and port into a GUI login window.
