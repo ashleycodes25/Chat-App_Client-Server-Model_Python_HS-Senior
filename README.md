@@ -1,6 +1,6 @@
 # Chat-App_Client-Server-Model_Python_Senior-Year
 
-This program assigned my senior year of high school during our Python unit. <br/>
+This program was assigned my senior year of high school during our Python unit. <br/>
 The attatched Client.py and Server.py files contain the code I submitted for this program.
 
 **Instructions:**
